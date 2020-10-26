@@ -4,4 +4,5 @@ gem 'jekyll-sitemap'
 gem 'jekyll-feed'
 gem 'jekyll-seo-tag'
 gem 'jekyll-paginate'
+gem 'jekyll-multiple-languages-plugin'
 gemspec
