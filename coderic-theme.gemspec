@@ -4,7 +4,7 @@ Gem::Specification.new do |spec|
   spec.name          = "coderic-theme"
   spec.version       = "0.1.0"
   spec.authors       = ["Neftali Yagua"]
-  spec.email         = ["despacho@neftaliyagua.com.ve"]
+  spec.email         = ["despacho@neftaliyagua.com"]
 
   spec.summary       = "Theme for Coderic, S.A."
   spec.homepage      = "https://coderic.net"
